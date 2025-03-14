@@ -1,3 +1,6 @@
+#Evelyn Idogbe
+#Id: A00050322
+
 Problem statement:
 Craft a program in Python which has the features listed below: 1. 2. 3. 4. You program should use the input() function that includes message text to instruct the user to enter each student’s data. Use an appropriate data structure to create and store this data, which contains the student’s ID or Name, and overall score. Your program calculates the overall rate using the four main criteria described above (Coursework 1, Coursework 2, Coursework 3 and Test) Your program should estimate the suitable category for the student by using the category dataset provided above. For instance, if the overall score of the student is 73.3, the output should be: Student’s ID/Name 72 - First 5. The computed score should be printed out as an integer (no decimals).
 
