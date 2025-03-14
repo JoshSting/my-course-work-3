@@ -1,3 +1,5 @@
+# Evelyn Idogbe
+# Id: A00050322
 
 def accept_input():
     student_id = input("Student's ID or Name: ")
